@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\Stefan\Documents\GarminIQ\SosInfo\images\logo.png"
+   inkscape:export-xdpi="110.9796"
+   inkscape:export-ydpi="110.9796"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.33178279"
+     inkscape:cx="114.53277"
+     inkscape:cy="581.70589"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.26636"
+       id="path894"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="15.070101"
+       sodipodi:cy="57.266383"
+       sodipodi:r1="631.45697"
+       sodipodi:r2="546.85779"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 330.79856,604.12418 -631.45697,-4e-5 -315.72846,-546.857788 315.72851,-546.857762 631.45697,3e-5 315.72846,546.857793 z"
+       transform="matrix(0.20925997,0,0,0.20925997,129.1381,120.3081)" />
+    <text
+       xml:space="preserve"
+       style="font-size:86.3724px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;fill:#ffffff"
+       x="131.95425"
+       y="119.52236"
+       id="text2278"><tspan
+         sodipodi:role="line"
+         style="font-size:86.3724px;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff"
+         x="131.95425"
+         y="119.52236"
+         id="tspan2280">SOS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:80.3303px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;fill:#ffffff"
+       x="143.19627"
+       y="185.55856"
+       id="text5732"
+       transform="scale(0.92094752,1.0858382)"><tspan
+         sodipodi:role="line"
+         style="font-size:80.3303px;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff"
+         x="143.19627"
+         y="185.55856"
+         id="tspan5730">INFO</tspan></text>
+  </g>
+</svg>

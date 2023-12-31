@@ -1,0 +1,15 @@
+<properties>
+    <property id="appVersion" type="string">1.0.0</property>
+    <property id="targetDate" type="number">0</property>
+    <property id="targetType" type="number">0</property>
+
+    <property id="header1" type="string">Joane Doe</property>
+    <property id="header2" type="string"></property>
+    <property id="header3" type="string"></property>
+
+    <property id="content1" type="string"></property>
+    <property id="content2" type="string"></property>
+    <property id="content3" type="string"></property>
+
+    <property id="tapForMore" type="string">tap for more</property>
+</properties>

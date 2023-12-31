@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="../../images/logo.svg" />
+    <drawable-list id="Separator">
+        <shape type="rectangle" x="center" y="37%" width="80%" height="1%" color="Gfx.COLOR_LT_GRAY" />
+    </drawable-list>
+</drawables>

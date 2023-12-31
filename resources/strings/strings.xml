@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">SOS Info</string>
+
+    <string id="Header1">Header Page 1</string>
+    <string id="Header2">Header Page 2</string>
+    <string id="Header3">Header Page 3</string>
+    <string id="Content1">Content Page 1</string>
+    <string id="Content2">Content Page 2</string>
+    <string id="Content3">Content Page 3</string>
+
+    <string id="TapForMore">Label at the Bottom of Screen</string>
+</strings>

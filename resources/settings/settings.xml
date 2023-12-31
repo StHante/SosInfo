@@ -1,0 +1,28 @@
+<settings>
+
+    <setting propertyKey="@Properties.header1" title="@Strings.Header1">
+        <settingConfig type="alphaNumeric" required="true" />
+    </setting>
+    <setting propertyKey="@Properties.content1" title="@Strings.Content1">
+        <settingConfig type="alphaNumeric" required="false" />
+    </setting>
+
+    <setting propertyKey="@Properties.header2" title="@Strings.Header2">
+        <settingConfig type="alphaNumeric" required="false" />
+    </setting>
+    <setting propertyKey="@Properties.content2" title="@Strings.Content2">
+        <settingConfig type="alphaNumeric" required="false" />
+    </setting>
+
+    <setting propertyKey="@Properties.header3" title="@Strings.Header3">
+        <settingConfig type="alphaNumeric" required="false" />
+    </setting>
+    <setting propertyKey="@Properties.content3" title="@Strings.Content3">
+        <settingConfig type="alphaNumeric" required="false" />
+    </setting>
+
+    <setting propertyKey="@Properties.tapForMore" title="@Strings.TapForMore">
+        <settingConfig type="alphaNumeric" required="false" />
+    </setting>
+
+</settings>

@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">SOS Info</string>
+
+    <string id="Header1">Überschrift Seite 1</string>
+    <string id="Header2">Überschrift Seite 2</string>
+    <string id="Header3">Überschrift Seite 3</string>
+    <string id="Content1">Inhalt Seite 1</string>
+    <string id="Content2">Inhalt Seite 2</string>
+    <string id="Content3">Inhalt Seite 3</string>
+
+    <string id="TapForMore">Text am unteren Bildrand</string>
+</strings>

@@ -1,0 +1,8 @@
+<resources>
+    <layout id="MainLayout">
+        <label id="Header" text="" x="center" y="20%" font="Graphics.FONT_SYSTEM_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER" color="Gfx.COLOR_GREEN" />
+        <drawable id="Separator" />
+        <label id="Content" text="" x="center" y="38%" font="Graphics.FONT_SYSTEM_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+        <label id="TapForMore" text="" x="center" y="88%" font="Graphics.FONT_SYSTEM_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY" />
+    </layout>
+</resources>
